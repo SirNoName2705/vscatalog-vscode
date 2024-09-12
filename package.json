@@ -1,6 +1,7 @@
 {
   "name": "vscatalog",
   "displayName": "vscatalog",
+  "publisher": "Neurosoft",
   "description": "Adds json schema catalog for vintage story modding. This will enable auto complete for custom asset files.",
   "version": "1.0.0",
   "engines": {

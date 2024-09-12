@@ -15,6 +15,11 @@
     "onStartupFinished"
   ],
   "main": "./out/extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SirNoName2705/vscatalog-vscode.git"
+  },
+  "license": "MIT",
   "contributes": {
     "commands": [
       {
